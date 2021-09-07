@@ -1,0 +1,8534 @@
+[
+  {
+    "ID": 667896518983811082,
+    "admin_points": 0,
+    "claim_points": 168,
+    "active_points": 250,
+    "total_points": 418,
+    "blacklisted": false,
+    "XP": 97
+  },
+  {
+    "ID": 296503611473788931,
+    "admin_points": 0,
+    "claim_points": 172,
+    "active_points": 860,
+    "total_points": 1032,
+    "blacklisted": false,
+    "XP": 64
+  },
+  {
+    "ID": 280816997275533314,
+    "admin_points": 0,
+    "claim_points": 11,
+    "active_points": 0,
+    "total_points": 11,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 687447562835460154,
+    "admin_points": 50,
+    "claim_points": 149,
+    "active_points": 220,
+    "total_points": 419,
+    "blacklisted": false,
+    "XP": 46
+  },
+  {
+    "ID": 198948853611757568,
+    "admin_points": 0,
+    "claim_points": 98,
+    "active_points": 165,
+    "total_points": 263,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 370714403416309760,
+    "admin_points": 0,
+    "claim_points": 230,
+    "active_points": 510,
+    "total_points": 740,
+    "blacklisted": false,
+    "XP": 63
+  },
+  {
+    "ID": 725099475810648155,
+    "admin_points": 0,
+    "claim_points": 25,
+    "active_points": 0,
+    "total_points": 25,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 217813933279543296,
+    "admin_points": 0,
+    "claim_points": 5,
+    "active_points": 0,
+    "total_points": 5,
+    "blacklisted": false,
+    "XP": 55
+  },
+  {
+    "ID": 682363740863332363,
+    "admin_points": 0,
+    "claim_points": 3,
+    "active_points": 10,
+    "total_points": 13,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 334484047088582656,
+    "admin_points": 0,
+    "claim_points": 137,
+    "active_points": 160,
+    "total_points": 297,
+    "blacklisted": false,
+    "XP": 37
+  },
+  {
+    "ID": 234497001247473664,
+    "admin_points": 0,
+    "claim_points": 72,
+    "active_points": 180,
+    "total_points": 252,
+    "blacklisted": false,
+    "XP": 91
+  },
+  {
+    "ID": 180627868261285889,
+    "admin_points": 0,
+    "claim_points": 9,
+    "active_points": 0,
+    "total_points": 9,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 433761577557295115,
+    "admin_points": 0,
+    "claim_points": 32,
+    "active_points": 120,
+    "total_points": 152,
+    "blacklisted": false,
+    "XP": 99
+  },
+  {
+    "ID": 514884465634574337,
+    "admin_points": 0,
+    "claim_points": 240,
+    "active_points": 110,
+    "total_points": 350,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 577539199708823573,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 176534875778580480,
+    "admin_points": 0,
+    "claim_points": 30,
+    "active_points": 10,
+    "total_points": 40,
+    "blacklisted": false,
+    "XP": 43
+  },
+  {
+    "ID": 495513491336331275,
+    "admin_points": 0,
+    "claim_points": 679,
+    "active_points": 640,
+    "total_points": 1319,
+    "blacklisted": false,
+    "XP": 87
+  },
+  {
+    "ID": 97057830598615040,
+    "admin_points": 0,
+    "claim_points": 154,
+    "active_points": 230,
+    "total_points": 384,
+    "blacklisted": false,
+    "XP": 56
+  },
+  {
+    "ID": 581041972941422622,
+    "admin_points": 0,
+    "claim_points": 298,
+    "active_points": 350,
+    "total_points": 648,
+    "blacklisted": false,
+    "XP": 46
+  },
+  {
+    "ID": 743256520413806714,
+    "admin_points": 0,
+    "claim_points": 23,
+    "active_points": 30,
+    "total_points": 53,
+    "blacklisted": false,
+    "XP": 25
+  },
+  {
+    "ID": 751913488414277712,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 695664557229867038,
+    "admin_points": 0,
+    "claim_points": 13,
+    "active_points": 20,
+    "total_points": 33,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 660688982115614720,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 605620069233590273,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 695771073848803328,
+    "admin_points": 0,
+    "claim_points": 24,
+    "active_points": 0,
+    "total_points": 24,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 265487499478958081,
+    "admin_points": 0,
+    "claim_points": 58,
+    "active_points": 260,
+    "total_points": 318,
+    "blacklisted": false,
+    "XP": 29
+  },
+  {
+    "ID": 182296307245776896,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 44
+  },
+  {
+    "ID": 448283549733486592,
+    "admin_points": 0,
+    "claim_points": 90,
+    "active_points": 340,
+    "total_points": 430,
+    "blacklisted": false,
+    "XP": 70
+  },
+  {
+    "ID": 327604592332374016,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 169675950185906176,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 40,
+    "total_points": 50,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 523460397148405761,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 287753309740204033,
+    "admin_points": 0,
+    "claim_points": 43,
+    "active_points": 90,
+    "total_points": 133,
+    "blacklisted": false,
+    "XP": 86
+  },
+  {
+    "ID": 240115136981893132,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 754511479511842886,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 694132742316752916,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 325070904034066432,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 674630177829027840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 523444432956162059,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 634728078823784470,
+    "admin_points": 0,
+    "claim_points": 20,
+    "active_points": 90,
+    "total_points": 110,
+    "blacklisted": false,
+    "XP": 63
+  },
+  {
+    "ID": 312846216318812160,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 43
+  },
+  {
+    "ID": 679861635703373880,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 693208042589651127,
+    "admin_points": 0,
+    "claim_points": 68,
+    "active_points": 60,
+    "total_points": 128,
+    "blacklisted": false,
+    "XP": 60
+  },
+  {
+    "ID": 318702739653656579,
+    "admin_points": 0,
+    "claim_points": 26,
+    "active_points": 30,
+    "total_points": 56,
+    "blacklisted": false,
+    "XP": 94
+  },
+  {
+    "ID": 328241992746139648,
+    "admin_points": 0,
+    "claim_points": 111,
+    "active_points": 90,
+    "total_points": 201,
+    "blacklisted": false,
+    "XP": 76
+  },
+  {
+    "ID": 735926040878121000,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 66
+  },
+  {
+    "ID": 558564502241673216,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 306986461465673739,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 155435098978779136,
+    "admin_points": 0,
+    "claim_points": 100,
+    "active_points": 210,
+    "total_points": 310,
+    "blacklisted": false,
+    "XP": 96
+  },
+  {
+    "ID": 575426198801481779,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 665356921313951754,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 338785814357999627,
+    "admin_points": 0,
+    "claim_points": 53,
+    "active_points": 140,
+    "total_points": 193,
+    "blacklisted": false,
+    "XP": 97
+  },
+  {
+    "ID": 298203196172533760,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 20,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 237114500585750528,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 37
+  },
+  {
+    "ID": 646007463862206514,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 92
+  },
+  {
+    "ID": 349854158054096896,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 130750315325685760,
+    "admin_points": 0,
+    "claim_points": 20,
+    "active_points": 10,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 61
+  },
+  {
+    "ID": 746749877483995158,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 280473178357366784,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 35
+  },
+  {
+    "ID": 702303200929251459,
+    "admin_points": 0,
+    "claim_points": 30,
+    "active_points": 10,
+    "total_points": 40,
+    "blacklisted": false,
+    "XP": 49
+  },
+  {
+    "ID": 128627583595053056,
+    "admin_points": 0,
+    "claim_points": 55,
+    "active_points": 90,
+    "total_points": 145,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 581625670522634251,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 155946986518872064,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 423307610243203113,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 261586150261653506,
+    "admin_points": 0,
+    "claim_points": 5,
+    "active_points": 40,
+    "total_points": 45,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 400476707397828610,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 194955560276197377,
+    "admin_points": 0,
+    "claim_points": 16,
+    "active_points": 0,
+    "total_points": 16,
+    "blacklisted": false,
+    "XP": 68
+  },
+  {
+    "ID": 454834984742682625,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 140698659015622656,
+    "admin_points": 0,
+    "claim_points": 6,
+    "active_points": 0,
+    "total_points": 6,
+    "blacklisted": false,
+    "XP": 51
+  },
+  {
+    "ID": 320244524372983808,
+    "admin_points": 0,
+    "claim_points": 17,
+    "active_points": 20,
+    "total_points": 37,
+    "blacklisted": false,
+    "XP": 77
+  },
+  {
+    "ID": 217141600365576193,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 351006360273682432,
+    "admin_points": 0,
+    "claim_points": 76,
+    "active_points": 130,
+    "total_points": 206,
+    "blacklisted": false,
+    "XP": 38
+  },
+  {
+    "ID": 389724084675805184,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 311560186584104961,
+    "admin_points": 100,
+    "claim_points": 31,
+    "active_points": 20,
+    "total_points": 151,
+    "blacklisted": false,
+    "XP": 95
+  },
+  {
+    "ID": 687891269103386664,
+    "admin_points": 0,
+    "claim_points": 138,
+    "active_points": 50,
+    "total_points": 188,
+    "blacklisted": false,
+    "XP": 90
+  },
+  {
+    "ID": 320004471881203721,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 34
+  },
+  {
+    "ID": 496875940098605062,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 70
+  },
+  {
+    "ID": 744684376767463484,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 97
+  },
+  {
+    "ID": 259156101239537665,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 53
+  },
+  {
+    "ID": 438110342812401675,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 229447011579985921,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 507107990789292042,
+    "admin_points": 0,
+    "claim_points": 202,
+    "active_points": 160,
+    "total_points": 362,
+    "blacklisted": false,
+    "XP": 22
+  },
+  {
+    "ID": 448573871239593984,
+    "admin_points": 0,
+    "claim_points": 7,
+    "active_points": 10,
+    "total_points": 17,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 224317797818171393,
+    "admin_points": 0,
+    "claim_points": 44,
+    "active_points": 10,
+    "total_points": 54,
+    "blacklisted": false,
+    "XP": 78
+  },
+  {
+    "ID": 432619637247836171,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 76
+  },
+  {
+    "ID": 138509897024143360,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 40
+  },
+  {
+    "ID": 188708532894302218,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 712064251631763557,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 213760316125872128,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 260971154125225986,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 40,
+    "total_points": 40,
+    "blacklisted": false,
+    "XP": 30
+  },
+  {
+    "ID": 154694586869088257,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 12
+  },
+  {
+    "ID": 670551349250883599,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 20,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 78
+  },
+  {
+    "ID": 746393348897636352,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 432473701972312069,
+    "admin_points": 0,
+    "claim_points": 19,
+    "active_points": 30,
+    "total_points": 49,
+    "blacklisted": false,
+    "XP": 84
+  },
+  {
+    "ID": 752504714666573865,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 84
+  },
+  {
+    "ID": 256940981004402689,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 563937427303956482,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 77
+  },
+  {
+    "ID": 556352066482733058,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 80,
+    "total_points": 90,
+    "blacklisted": false,
+    "XP": 64
+  },
+  {
+    "ID": 641192062825529355,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 668248358900727840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 43
+  },
+  {
+    "ID": 627296856430608404,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 45
+  },
+  {
+    "ID": 329501972904542209,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 340942325750431745,
+    "admin_points": 0,
+    "claim_points": 68,
+    "active_points": 50,
+    "total_points": 118,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 399737960414707733,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 515344331544985602,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 485855774720000001,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 405163667467010071,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 429819281140613121,
+    "admin_points": 0,
+    "claim_points": 8,
+    "active_points": 0,
+    "total_points": 8,
+    "blacklisted": false,
+    "XP": 94
+  },
+  {
+    "ID": 357862578409701377,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 48
+  },
+  {
+    "ID": 214531042436972547,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 70
+  },
+  {
+    "ID": 140967114579247104,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 325938045012541440,
+    "admin_points": 0,
+    "claim_points": 53,
+    "active_points": 0,
+    "total_points": 53,
+    "blacklisted": false,
+    "XP": 69
+  },
+  {
+    "ID": 97390319661748224,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 414393460427325440,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 168459356734488576,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 272694983440728074,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 124012777990782976,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 432077089664139274,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 140580474878820353,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 0,
+    "total_points": 2,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 236573584338714624,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 601282681438863400,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 80
+  },
+  {
+    "ID": 718880585283535010,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 730162384882368612,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 415250130833375242,
+    "admin_points": 0,
+    "claim_points": 6,
+    "active_points": 0,
+    "total_points": 6,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 756723786006528040,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 492193210362232842,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 461530462779604993,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 674960141287686184,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 175295945875914752,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 595380106164436993,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 30,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 46
+  },
+  {
+    "ID": 163311698713772032,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 65
+  },
+  {
+    "ID": 531957121038680094,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 731025818121404458,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 0,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 248605576655798272,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 533276424233025536,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 646407219155435520,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 608723925094105095,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 187368011475320832,
+    "admin_points": 0,
+    "claim_points": 28,
+    "active_points": 100,
+    "total_points": 128,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 271946597800214528,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 602329755332771840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 370381237233385482,
+    "admin_points": 0,
+    "claim_points": 8,
+    "active_points": 40,
+    "total_points": 48,
+    "blacklisted": false,
+    "XP": 34
+  },
+  {
+    "ID": 404848580982079488,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 498421007732965376,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 146865915802157056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 664991986461442073,
+    "admin_points": 400,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 400,
+    "blacklisted": false,
+    "XP": 77
+  },
+  {
+    "ID": 710020526294171701,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 337667894165110785,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 721625072909025312,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 753815545530286122,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 752175418953695263,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 564542494344478720,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 728077858446246018,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 266881927011762176,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 493762963753271296,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 159861535781421056,
+    "admin_points": 0,
+    "claim_points": 1,
+    "active_points": 0,
+    "total_points": 1,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 165607625193553920,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 757999330782347436,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 314491524807131136,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 646135356395356210,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 0,
+    "total_points": 2,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 146843686301335552,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 698725540869439530,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 453413636719771648,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 472849052334030848,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 400262032210788353,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 91
+  },
+  {
+    "ID": 159007746748841985,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 757628041026469889,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 216761423974367233,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 187412808365768704,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 717399754149199983,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 499356977516773387,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 660583237986549781,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 186646663266304001,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 715581287683063861,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 651086204376186882,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 676595767229677571,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 755736138488217650,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 535960637650763789,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 369202480149561344,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 695024945834622977,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 179871086832386048,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 387638851327492096,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 110127725653524480,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 201608787876904960,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 12
+  },
+  {
+    "ID": 583454079192137747,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 138197551055765504,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 192327405816250370,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 254705499201732609,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 146173186382364672,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 0,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 48
+  },
+  {
+    "ID": 238705352043003924,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 25
+  },
+  {
+    "ID": 202493738562486272,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 295222784777256961,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 328406445794000899,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 662538583370104866,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 704798463593807902,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 443557632465305611,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 60
+  },
+  {
+    "ID": 282238287354265600,
+    "admin_points": 0,
+    "claim_points": 57,
+    "active_points": 270,
+    "total_points": 327,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 633517447126843405,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 163120682341892096,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 27
+  },
+  {
+    "ID": 273172769334624256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 257594359321591808,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 545057281763573760,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 253931598234255361,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 75
+  },
+  {
+    "ID": 212710538445062145,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 277153981510320129,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 317128044462735360,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 712518294208512013,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 630103706242646046,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 709936614973112350,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 380488840986755082,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 520773803199037441,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 448970091405639692,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 313141690380845057,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 389861660183232523,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 48
+  },
+  {
+    "ID": 464184478525423656,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 297161108555563008,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 401097607721648129,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 173808004246929408,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 707346962273533993,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 489721641480224769,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 543166481077239839,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 745002057215246367,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 0,
+    "total_points": 2,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 731936636841230426,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 61
+  },
+  {
+    "ID": 691837219408707585,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 149182791790100481,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 638095949130104905,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 282720738958639105,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 332566185759604736,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 309135159410819072,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 309918519800365056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 296788155128872962,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 320174401754497026,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 16
+  },
+  {
+    "ID": 369655821040091147,
+    "admin_points": 0,
+    "claim_points": 18,
+    "active_points": 30,
+    "total_points": 48,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 386146530786279427,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 265957703900332043,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 385671429867307009,
+    "admin_points": 0,
+    "claim_points": 7,
+    "active_points": 10,
+    "total_points": 17,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 447684356711120907,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 98176782250831872,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 340254407889256448,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 161198705209245696,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 488524138470834176,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 635778419740901389,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 142785654575595520,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 60
+  },
+  {
+    "ID": 347140168979054595,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 450413342046158850,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 484217752677122048,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 323845647449063424,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 96
+  },
+  {
+    "ID": 608569940206682122,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 175790538019045376,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 703995643986968596,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 577859057621270550,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 189455446480781312,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 480509933947715584,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 0,
+    "total_points": 2,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 617823471510093824,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 739752395482988636,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 578034630880657427,
+    "admin_points": 0,
+    "claim_points": 6,
+    "active_points": 0,
+    "total_points": 6,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 217343223201267712,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 721136772427284490,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 147432357543149569,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 39
+  },
+  {
+    "ID": 746575984597401620,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 728347394848194582,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 180,
+    "total_points": 190,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 377159964994830338,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 291630125345275904,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 461742506384818177,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 743684420375937024,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 466294242965323788,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 169851126185852928,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 412012996903305216,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 28
+  },
+  {
+    "ID": 274237697994915860,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 71
+  },
+  {
+    "ID": 704829866880663582,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 638917860726538240,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 504442820720066570,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 183337438951899136,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 739911157002928138,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 105920749033771008,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 50,
+    "total_points": 60,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 752123617893941279,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 180149379267559424,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 686635388483272772,
+    "admin_points": 0,
+    "claim_points": 7,
+    "active_points": 0,
+    "total_points": 7,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 696813628346859570,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 561024550163185664,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 221064888464834560,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 239381557817769984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 495694727300251648,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 506571297334231043,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 743345075542687835,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 625622996740210698,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 554838375119585280,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 16
+  },
+  {
+    "ID": 177520076801572864,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 727523615863472128,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 371778172615917569,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 50
+  },
+  {
+    "ID": 194074317519060992,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 755981179311620147,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 756105849323388948,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 682359849883140193,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 29
+  },
+  {
+    "ID": 477712070301712394,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 203218271858589697,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 720442200437162013,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 749655355579039765,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 600076420315742212,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 30
+  },
+  {
+    "ID": 196019080455520256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 126744127193743361,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 631148484522672185,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 658858853886066728,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 253405811232079872,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 747674420130218054,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 25
+  },
+  {
+    "ID": 462858854557024256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 204630569739485184,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 703810488248696934,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 594019817237905409,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 647926295635820564,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 413641219365797888,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 367496992923844619,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 392179382485254145,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 754126612617887825,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 508332398254096425,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 177718142217355265,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 277599004479586315,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 416652977860902913,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 714245569383497818,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 712244729428836403,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 676097966381072384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 304666033296506890,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 36
+  },
+  {
+    "ID": 253046118202605580,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 634568657942347806,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 400914932008353794,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 327532125425238018,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 394302485692416001,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 183655288111497216,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 470089163606327306,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 360238738170707969,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 556998732701368332,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 197389218886975499,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 148178830710800384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 22
+  },
+  {
+    "ID": 530499913809788959,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 743970676540702790,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 425090636459278346,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 291669644408782854,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 22
+  },
+  {
+    "ID": 438774405255004172,
+    "admin_points": 0,
+    "claim_points": 21,
+    "active_points": 50,
+    "total_points": 71,
+    "blacklisted": false,
+    "XP": 35
+  },
+  {
+    "ID": 553680230800293936,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 679771366609780763,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 30
+  },
+  {
+    "ID": 257633607017824256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 374328953663389707,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 17
+  },
+  {
+    "ID": 250154313752510464,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 748723082985996350,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 375644747919785986,
+    "admin_points": 0,
+    "claim_points": 20,
+    "active_points": 0,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 69
+  },
+  {
+    "ID": 739985607966851213,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 148713217357643776,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 470470081927839744,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 174224784324820994,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 45
+  },
+  {
+    "ID": 387292930647261203,
+    "admin_points": 0,
+    "claim_points": 4,
+    "active_points": 0,
+    "total_points": 4,
+    "blacklisted": false,
+    "XP": 84
+  },
+  {
+    "ID": 727045806535737385,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 602010563366617098,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 214469683536068608,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 758766746353664020,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 331138825424338947,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 294608497998299136,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 78
+  },
+  {
+    "ID": 721020555255611484,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 755813156432904243,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 75
+  },
+  {
+    "ID": 313850334470602752,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 141404929913782272,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 132738186022617088,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 65
+  },
+  {
+    "ID": 737718880616579133,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 602592198885769247,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 556502476950470667,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 19
+  },
+  {
+    "ID": 677398693166448643,
+    "admin_points": 0,
+    "claim_points": 25,
+    "active_points": 40,
+    "total_points": 65,
+    "blacklisted": false,
+    "XP": 60
+  },
+  {
+    "ID": 670054555572109335,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 143490319520890881,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 464063980290441221,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 626230045626597406,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 10,
+    "total_points": 12,
+    "blacklisted": false,
+    "XP": 72
+  },
+  {
+    "ID": 172968826994950146,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 63
+  },
+  {
+    "ID": 423440920307040257,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 611395227466596354,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 142735440858972160,
+    "admin_points": 0,
+    "claim_points": 17,
+    "active_points": 20,
+    "total_points": 37,
+    "blacklisted": false,
+    "XP": 94
+  },
+  {
+    "ID": 692066089676439572,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 308351443730038805,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 678419744252231730,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 760309363285033021,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 757842041945194527,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 551788095423512592,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 249403039545425920,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 645373680763011093,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 338166037029584899,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 262359714925379588,
+    "admin_points": 0,
+    "claim_points": 35,
+    "active_points": 40,
+    "total_points": 75,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 651436015931621376,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 313976618378985472,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 53
+  },
+  {
+    "ID": 605383193058869248,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 214868872816361473,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 423216769226768426,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 612388037032149042,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 578793566764269581,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 311086719350996993,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 760418431970574346,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 494369012118192128,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 535762049054277662,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 757988707700703253,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 580600487729037334,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 745691650197553193,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 273314881917288450,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 700598393709264926,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 351466541268598784,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 559216649748742144,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 139
+  },
+  {
+    "ID": 573666854434766860,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 651527041082196010,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 349517738420731905,
+    "admin_points": 0,
+    "claim_points": 7,
+    "active_points": 50,
+    "total_points": 57,
+    "blacklisted": false,
+    "XP": 87
+  },
+  {
+    "ID": 603450092938068007,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 733407011223502951,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 0,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 44
+  },
+  {
+    "ID": 629464663456743424,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 271341806334115840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 593570927112093698,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 228618912021872641,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 674119359785861120,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 736265898947510354,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 760596668227256350,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 432697422456553474,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 614192574470815755,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 328938174485233664,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 42
+  },
+  {
+    "ID": 159527667090063361,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 74
+  },
+  {
+    "ID": 390986811859664898,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 700206978089091092,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 342645879963910145,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 559045199393980437,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 137060677012422656,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 66
+  },
+  {
+    "ID": 644175026001805312,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 40,
+    "total_points": 40,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 646779397952634892,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 142035085938524161,
+    "admin_points": 0,
+    "claim_points": 15,
+    "active_points": 110,
+    "total_points": 125,
+    "blacklisted": false,
+    "XP": 78
+  },
+  {
+    "ID": 275875619190079488,
+    "admin_points": 0,
+    "claim_points": 12,
+    "active_points": 40,
+    "total_points": 52,
+    "blacklisted": false,
+    "XP": 81
+  },
+  {
+    "ID": 259145653383462912,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 35
+  },
+  {
+    "ID": 694321378349940836,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 726212818134630472,
+    "admin_points": 0,
+    "claim_points": 10,
+    "active_points": 10,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 602125828599316481,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 334965643788943371,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 661691980346032171,
+    "admin_points": 0,
+    "claim_points": 5,
+    "active_points": 10,
+    "total_points": 15,
+    "blacklisted": false,
+    "XP": 39
+  },
+  {
+    "ID": 201168563627622401,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 368500156242329600,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 158710726385598465,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 761058388628865024,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 167572790743007234,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 510118512510107648,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 502506382109442049,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 756390896806920233,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 426577829837144066,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 651507830377021450,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 409937620785954829,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 21
+  },
+  {
+    "ID": 210556034828337152,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 50
+  },
+  {
+    "ID": 740401431642767410,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 657053279716638735,
+    "admin_points": 0,
+    "claim_points": 8,
+    "active_points": 30,
+    "total_points": 38,
+    "blacklisted": false,
+    "XP": 91
+  },
+  {
+    "ID": 366023978206232577,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 557036422985678869,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 464611834197049344,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 711094742439690300,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 225284333324206081,
+    "admin_points": 0,
+    "claim_points": 1,
+    "active_points": 10,
+    "total_points": 11,
+    "blacklisted": false,
+    "XP": 50
+  },
+  {
+    "ID": 575857724479504405,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 761246447491350557,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 693991267272753193,
+    "admin_points": 0,
+    "claim_points": 12,
+    "active_points": 50,
+    "total_points": 62,
+    "blacklisted": false,
+    "XP": 53
+  },
+  {
+    "ID": 622775385154650123,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 629670177872543748,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 723621481522659352,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 293058010492698625,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 735055879556038686,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 284654974087200768,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 451958865056235530,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 269543489404928001,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 756594685233070193,
+    "admin_points": 0,
+    "claim_points": 7,
+    "active_points": 10,
+    "total_points": 17,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 755912751783608362,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 635298153553199105,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 213330067756023808,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 515101534577754127,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 291233529499615244,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 740080716724830270,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 761967607375986688,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 317542406855852032,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 77
+  },
+  {
+    "ID": 128647300770824192,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 511299244339101732,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 226571536390160384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 58
+  },
+  {
+    "ID": 752041523012698132,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 143493659239645186,
+    "admin_points": 0,
+    "claim_points": 5,
+    "active_points": 0,
+    "total_points": 5,
+    "blacklisted": false,
+    "XP": 89
+  },
+  {
+    "ID": 293807883672616960,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 54
+  },
+  {
+    "ID": 407952170500096000,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 112749297824477184,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 62
+  },
+  {
+    "ID": 318963479950131200,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 472040786196824076,
+    "admin_points": 0,
+    "claim_points": 6,
+    "active_points": 20,
+    "total_points": 26,
+    "blacklisted": false,
+    "XP": 97
+  },
+  {
+    "ID": 208323475012714496,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 42
+  },
+  {
+    "ID": 152649661222617088,
+    "admin_points": 0,
+    "claim_points": 1,
+    "active_points": 130,
+    "total_points": 131,
+    "blacklisted": false,
+    "XP": 43
+  },
+  {
+    "ID": 759171645427941396,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 188502109908500482,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 681509447910424649,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 731204826196607026,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 272581674120773634,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 140373716289847296,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 761978506073604167,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 236610101220212738,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 346061040796172288,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 322086682428047360,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 762008042215964694,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 762363963924021259,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 49
+  },
+  {
+    "ID": 761532533112307723,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 488387072378273812,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 552533317912887297,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 754956637076324392,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 289399855091023882,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 131661819369488384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 191192156562653185,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 200779229791518720,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 490663167790153729,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 598353215167397889,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 189054164720943104,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 19
+  },
+  {
+    "ID": 751239588659593237,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 40,
+    "total_points": 40,
+    "blacklisted": false,
+    "XP": 75
+  },
+  {
+    "ID": 247934854333857814,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 76
+  },
+  {
+    "ID": 359559109575704579,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 342088656112320513,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 396992675603021835,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 312064272903569409,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 604194811666235402,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 716345102192214037,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 255450800900407296,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 740527838523949066,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 431719523767549952,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 577685590368059405,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 592148521529114635,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 457286179432300568,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 457447205872336905,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 492507159003791362,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 762730512779051029,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 228205175951589396,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 123554146640068612,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 148669895083687936,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 53
+  },
+  {
+    "ID": 759710041380356137,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 761822145209696266,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 759039350461431848,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 265935789257523200,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 197419312003153920,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 567633013433958400,
+    "admin_points": 0,
+    "claim_points": 39,
+    "active_points": 300,
+    "total_points": 339,
+    "blacklisted": false,
+    "XP": 42
+  },
+  {
+    "ID": 762018506794336318,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 379431953176461333,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 270612924568043522,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 762799927142514698,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 80
+  },
+  {
+    "ID": 165944932509548544,
+    "admin_points": 0,
+    "claim_points": 33,
+    "active_points": 220,
+    "total_points": 253,
+    "blacklisted": false,
+    "XP": 93
+  },
+  {
+    "ID": 330200684190236672,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 230084302073888771,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 175242625463484418,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 27
+  },
+  {
+    "ID": 152981811746570240,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 566011467346870292,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 321122991645786113,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 430672500914126850,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 416485230786904065,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 597095968156024842,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 31
+  },
+  {
+    "ID": 238070934576037894,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 242394107589165056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 327472666904887316,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 325811566014496778,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 763214419927760906,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 235113706353065984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 60,
+    "total_points": 60,
+    "blacklisted": false,
+    "XP": 37
+  },
+  {
+    "ID": 761500565208563733,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 741912831645057044,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 744260312848531547,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 626049078572351488,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 762202685935321098,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 702890920139554826,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 460564917167194114,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 300580725063811072,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 731666376787230753,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 756270149732139078,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 675598419984777226,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 646468947872317470,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 474955600342810636,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 202539041277607936,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 484732896037568522,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 616472767361187841,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 88320755166633984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 759315767812030505,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 751269467652096132,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 153792073516974080,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 534900027131297823,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 49
+  },
+  {
+    "ID": 401953825554038785,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 748738093003047033,
+    "admin_points": 0,
+    "claim_points": 44,
+    "active_points": 60,
+    "total_points": 104,
+    "blacklisted": false,
+    "XP": 32
+  },
+  {
+    "ID": 166358039648141312,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 669378117621776384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 699923613884874812,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 398988264511504394,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 296857428295680002,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 38
+  },
+  {
+    "ID": 151635752298479616,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 275129919598755840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 674754957114605584,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 750226663962312704,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 302140558015463424,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 218012245831974912,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 99
+  },
+  {
+    "ID": 747216092530737222,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 759592745488220171,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 457990337625980938,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 204343578212696064,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 531558303461933057,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 589624583196508181,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 454864313530712065,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 468808090620526602,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 368982286638514188,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 204356223682871296,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 250667785368109056,
+    "admin_points": 0,
+    "claim_points": 14,
+    "active_points": 20,
+    "total_points": 34,
+    "blacklisted": false,
+    "XP": 44
+  },
+  {
+    "ID": 326888268698353674,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 329215515325235201,
+    "admin_points": 0,
+    "claim_points": 59,
+    "active_points": 60,
+    "total_points": 119,
+    "blacklisted": false,
+    "XP": 98
+  },
+  {
+    "ID": 744299300636328036,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 324430990313259026,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 706165330673795093,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 692387990726639656,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 596325584510910474,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 145420384202784768,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 589670390981328916,
+    "admin_points": 0,
+    "claim_points": 5,
+    "active_points": 0,
+    "total_points": 5,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 338828650348806164,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 662823829940207666,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 383671531315920896,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 396959964926836736,
+    "admin_points": 0,
+    "claim_points": 102,
+    "active_points": 50,
+    "total_points": 152,
+    "blacklisted": false,
+    "XP": 79
+  },
+  {
+    "ID": 530237234784239616,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 598267305528655883,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 733448088269750363,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 666399362003501059,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 29
+  },
+  {
+    "ID": 624886101781381121,
+    "admin_points": 0,
+    "claim_points": 8,
+    "active_points": 0,
+    "total_points": 8,
+    "blacklisted": false,
+    "XP": 65
+  },
+  {
+    "ID": 566211481352273937,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 680822575391047718,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 83
+  },
+  {
+    "ID": 568796678010830850,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 77
+  },
+  {
+    "ID": 324951950967963651,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 626904661403762708,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 215209737447276544,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 732336945275076670,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 437865872770465792,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 50,
+    "total_points": 50,
+    "blacklisted": false,
+    "XP": 99
+  },
+  {
+    "ID": 209340731473526786,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 696710755772268594,
+    "admin_points": 0,
+    "claim_points": 8,
+    "active_points": 0,
+    "total_points": 8,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 642742283778785320,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 764066444710903809,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 286994345012494348,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 365211515415953410,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 293770312225652738,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 697233706359717928,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 548562790634225690,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 764344219481276436,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 448059772491661321,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 568611394023456768,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 619379957587771422,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 665973357153615943,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 512800201774465034,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 386273708534267904,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 649891302208569346,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 695393394830213143,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 259043520797605888,
+    "admin_points": 0,
+    "claim_points": 19,
+    "active_points": 130,
+    "total_points": 149,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 331759606135128065,
+    "admin_points": 0,
+    "claim_points": 12,
+    "active_points": 0,
+    "total_points": 12,
+    "blacklisted": false,
+    "XP": 55
+  },
+  {
+    "ID": 103196528914477056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 486350451227361290,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 39
+  },
+  {
+    "ID": 137658216153612288,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 744375178959650968,
+    "admin_points": 0,
+    "claim_points": 18,
+    "active_points": 0,
+    "total_points": 18,
+    "blacklisted": false,
+    "XP": 66
+  },
+  {
+    "ID": 546855166469603328,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 409125619797065748,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 426123577746784267,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 319621657302007808,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 749278146548858970,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 267451220577222667,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 171048558814822400,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 680614895007563816,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 496744901912952843,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 753712640018350261,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 670804216838881324,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 758192071721877536,
+    "admin_points": 0,
+    "claim_points": 26,
+    "active_points": 0,
+    "total_points": 26,
+    "blacklisted": false,
+    "XP": 80
+  },
+  {
+    "ID": 697954088943484948,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 656899966286954520,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 410649385857187859,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 492355334849953808,
+    "admin_points": 0,
+    "claim_points": 6,
+    "active_points": 0,
+    "total_points": 6,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 270230600890318850,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 24
+  },
+  {
+    "ID": 245397689762578444,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 577285306542456854,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 104044513403604992,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 281541136043212810,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 70,
+    "total_points": 70,
+    "blacklisted": false,
+    "XP": 65
+  },
+  {
+    "ID": 499429205474279426,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 231770612438269952,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 202234752474939393,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 429474506420256768,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 750466926425276537,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 523278232913707020,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 688753250916368460,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 401538430548312064,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 226633154633400321,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 577229962646519818,
+    "admin_points": 0,
+    "claim_points": 1,
+    "active_points": 0,
+    "total_points": 1,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 397283904400392192,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 282563676333015040,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 220827021549371392,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 156212622943977472,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 242499019534761986,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 192065710661435392,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 710165625527337075,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 519920116981563408,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 744023183828582462,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 563404565504983056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 738879176916074537,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 35
+  },
+  {
+    "ID": 730839968578011258,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 205690459593375744,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 599424388097376262,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 204637564760621056,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 66
+  },
+  {
+    "ID": 717107324166209670,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 289880409204850690,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 706736759232397323,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 762652651380015125,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 526205567300010005,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 728007312488398960,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 474298969262915608,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 39
+  },
+  {
+    "ID": 726085015804575817,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 764367455563939850,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 703389356815155251,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 72
+  },
+  {
+    "ID": 693195519597740054,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 767139550845075457,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 238781663558107136,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 88
+  },
+  {
+    "ID": 172168523576115201,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 761259638972481537,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 499594153240297472,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 106558785228668928,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 186113231482257408,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 13
+  },
+  {
+    "ID": 178615871302795264,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 30,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 38
+  },
+  {
+    "ID": 241310470697385984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 251694319528968202,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 700857546809933925,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 321874683261878274,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 763074035843203082,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 603322441833644195,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 86
+  },
+  {
+    "ID": 689566769022763020,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 127311781092786187,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 55
+  },
+  {
+    "ID": 656377486338293771,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 80
+  },
+  {
+    "ID": 395140595137380353,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 383029056116883456,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 375627702465462274,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 276845603844128768,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 180158564034150401,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 71
+  },
+  {
+    "ID": 743222479845064754,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 237273505635368960,
+    "admin_points": 0,
+    "claim_points": 4,
+    "active_points": 0,
+    "total_points": 4,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 553402033076568076,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 330482462717247489,
+    "admin_points": 0,
+    "claim_points": 21,
+    "active_points": 20,
+    "total_points": 41,
+    "blacklisted": false,
+    "XP": 80
+  },
+  {
+    "ID": 745287535382495352,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 42
+  },
+  {
+    "ID": 767553162768678922,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 765280587489476668,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 635578484789608488,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 218566494546690051,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 426933890876309505,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 80,
+    "total_points": 80,
+    "blacklisted": false,
+    "XP": 33
+  },
+  {
+    "ID": 164048524617449473,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 767104556781666334,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 485897497319833600,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 419414149735383050,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 588026862643445782,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 333224344757075968,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 524752722277171211,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 337443349298413580,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 5
+  },
+  {
+    "ID": 765309142608511017,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 631511057805869066,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 724362792517238854,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 635570862069645315,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 259519198248566784,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 409122612854128681,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 55
+  },
+  {
+    "ID": 453040676481794049,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 135894101177401345,
+    "admin_points": 0,
+    "claim_points": 3,
+    "active_points": 0,
+    "total_points": 3,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 767085883588608081,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 649798823471874086,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 651953915050459195,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 58
+  },
+  {
+    "ID": 681336540806381574,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 739993884108521540,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 38
+  },
+  {
+    "ID": 625731975910522911,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 678690132311932990,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 570702109583081473,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 602259460236509188,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 672808083839254538,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 456304246900523009,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 593860291654189144,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 9
+  },
+  {
+    "ID": 768800283589214238,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 676636048780034048,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 227211045825937410,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 175732198404653059,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 284034356903673868,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 313373593771966465,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 16
+  },
+  {
+    "ID": 442767230069899285,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 72
+  },
+  {
+    "ID": 698367495169638460,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 725895185703239700,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 708820887427612742,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 302593945169297408,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 20
+  },
+  {
+    "ID": 648304301814317097,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 266394990316486669,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 567857453673218049,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 54
+  },
+  {
+    "ID": 723695590516457482,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 754584154888208384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 30
+  },
+  {
+    "ID": 646546628114907163,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 161239229588832256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 115179864641896456,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 26
+  },
+  {
+    "ID": 364465818521698308,
+    "admin_points": 0,
+    "claim_points": 2,
+    "active_points": 0,
+    "total_points": 2,
+    "blacklisted": false,
+    "XP": 23
+  },
+  {
+    "ID": 369138438882197516,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 765573519756361728,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 209879986608406529,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 768433647564357642,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 373470982741950465,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 186605939552419840,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 172130234999635968,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 212842135160881152,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 536408038920290324,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 485770299472609281,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 67
+  },
+  {
+    "ID": 673631983825453090,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 768256815795666974,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 639967352015945741,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 749048725426536449,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 535777285261885471,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 769776531660472370,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 632604122281017345,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 345938718185488386,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 29
+  },
+  {
+    "ID": 464003876086087694,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 437075360308264961,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 769751772524576818,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 611687353878183952,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 622257374329307141,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 770002022509314119,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 148590927684960257,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 768092344838258729,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 600154331748106240,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 708560175535095858,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 304059912735162371,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 55
+  },
+  {
+    "ID": 344553513751281667,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 417415610826489859,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 168237702079184896,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 423982752996655124,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 618520678462914580,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 621714971461550092,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 759192845856407592,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 688381433684820083,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 515233731150348330,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 151897809602215936,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 685284662108487889,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 143098887232552960,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 694203935476547637,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 512449792543293479,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 531090987469242379,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 142691247847374849,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 450691991437574164,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 557040877206503447,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 29
+  },
+  {
+    "ID": 403549957975572480,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 629404323423584256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 334055055630270466,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 569958228243382322,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 682757884454633507,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 30
+  },
+  {
+    "ID": 764192933258985474,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 768929256226029568,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 398813054004887562,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 582878134777675796,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 757597974774939678,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 217838890696966145,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 447786187651022859,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 6
+  },
+  {
+    "ID": 755853596104589384,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 770769766154633247,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 625364280224514058,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 706584187473363016,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 252984075764236291,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 12
+  },
+  {
+    "ID": 359505097270624256,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 100,
+    "total_points": 100,
+    "blacklisted": false,
+    "XP": 10
+  },
+  {
+    "ID": 777750900068188180,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 303323295233867781,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 750056043962433586,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 66
+  },
+  {
+    "ID": 523870139284979712,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 681563539584188461,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 41
+  },
+  {
+    "ID": 591784986168786945,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 764387886157266965,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 162975500346720258,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 19
+  },
+  {
+    "ID": 259794790185435137,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 538924025276006401,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 86
+  },
+  {
+    "ID": 131213275827273728,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 83
+  },
+  {
+    "ID": 684889070454964254,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 359733186181201927,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 490287209468002314,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 405438810139131905,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 80,
+    "total_points": 80,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 774351569361174531,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 508024645467897859,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 411064782330920961,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 7
+  },
+  {
+    "ID": 779992227098656770,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 673352524681707521,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 485656780559613962,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 724142314871717938,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 533441843418103808,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 421502341213061130,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 562172069786288129,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 40
+  },
+  {
+    "ID": 180384166381092864,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 52
+  },
+  {
+    "ID": 780920858440368150,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 729005812382564413,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 677115134283350016,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 577215683579084800,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 582609068338970624,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 30,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 96
+  },
+  {
+    "ID": 666740954627178499,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 753458312225488977,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 194240285549527040,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 60,
+    "total_points": 60,
+    "blacklisted": false,
+    "XP": 92
+  },
+  {
+    "ID": 150043214655520779,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 50
+  },
+  {
+    "ID": 340660825708691457,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 757037385275015228,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 628001889824407572,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 14
+  },
+  {
+    "ID": 473295793722490881,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 510362141753344010,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 279813044681441300,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 361963238130450443,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 8
+  },
+  {
+    "ID": 581286436444176403,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 766479747701932073,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 357319561760210955,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 177711884764446720,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 27
+  },
+  {
+    "ID": 402857165393756160,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 619601765347753984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 578809369349586945,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 232915223755882496,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 80,
+    "total_points": 80,
+    "blacklisted": false,
+    "XP": 11
+  },
+  {
+    "ID": 485884741032214530,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 695113950966185984,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 659560084266942467,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 553019428045062144,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 433528714010165248,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 2
+  },
+  {
+    "ID": 539198936695701534,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 263022572881313802,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 333892064230244352,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 609021414502039552,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 633995900267528192,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 698873203107430420,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 88
+  },
+  {
+    "ID": 754179781150507009,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 777205688124309535,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 473663029247082498,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 135348363066474496,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 229063187859767297,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 705716862050369587,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 209510450071732234,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 669694442952851456,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 287416355869949952,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 433726765211451393,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 719407718246383736,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 232591308345049089,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 18
+  },
+  {
+    "ID": 249623368582561793,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 637973121160314910,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 484220740019683338,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 601031007365234698,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 20,
+    "total_points": 20,
+    "blacklisted": false,
+    "XP": 15
+  },
+  {
+    "ID": 541788075877990420,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 782466788117708860,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 501164352238256128,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 574323248779624468,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 776161011203702844,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 10,
+    "total_points": 10,
+    "blacklisted": false,
+    "XP": 59
+  },
+  {
+    "ID": 604659205474877450,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 63
+  },
+  {
+    "ID": 760164948059357216,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 606189504277118978,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 780787025229643776,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 534909814422110219,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 710239740401811497,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 197013972430356480,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 548214808772608018,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 503734938365984778,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 30,
+    "total_points": 30,
+    "blacklisted": false,
+    "XP": 63
+  },
+  {
+    "ID": 625173376087883806,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 4
+  },
+  {
+    "ID": 272205426404229120,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 771988621397983234,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 349356623971614732,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 1
+  },
+  {
+    "ID": 410630378416766987,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 142705383088193536,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 342456609710145536,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 92
+  },
+  {
+    "ID": 651641077450801191,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  },
+  {
+    "ID": 581215320904040624,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 3
+  },
+  {
+    "ID": 771285693644275742,
+    "admin_points": 0,
+    "claim_points": 0,
+    "active_points": 0,
+    "total_points": 0,
+    "blacklisted": false,
+    "XP": 0
+  }
+]
